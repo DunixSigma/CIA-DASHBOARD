@@ -1,0 +1,11 @@
+body{margin:0;font-family:Arial,sans-serif;background:#f4f6f8}
+.sidebar{position:fixed;width:200px;height:100%;background:#2c3e50;color:#ecf0f1;padding:20px}
+.sidebar h2{color:#3498db}
+.sidebar a{display:block;color:#ecf0f1;text-decoration:none;margin:10px 0}
+.sidebar a:hover{color:#3498db}
+.main{margin-left:220px;padding:20px}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+th,td{border:1px solid #bdc3c7;padding:8px;text-align:left}
+th{background:#3498db;color:#fff}
+button{background:#3498db;color:#fff;border:none;padding:5px 10px;margin-right:5px;border-radius:4px;cursor:pointer}
+button:hover{background:#2980b9}
